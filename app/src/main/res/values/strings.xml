@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherGetterIncomplete2020</string>
+    <string name="temp">Temp %s c</string>
+    <string name="city_hint_text">City</string>
+    <string name="get_weather">Get weather</string>
+</resources>
